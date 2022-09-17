@@ -1,0 +1,9 @@
+variables = "son espacios de nemoria donde se pueden asignar valor o valores que pueden variar su valor a lo largo de un proceso
+
+Funciones (o argumentos) al final de la funcion regresa algun valor con la palabra clave #return"
+
+Declaraciones if =es la manera en que toma deciciones dependiendo si la condicion es verdadera o falsa
+
+Valores booleanos = son aquellos que solo puede estar en un estado de dos "verdadero o falso , 1 o 0"
+
+instrumentos de cuerda = son aquellas variables que contengan una cadena de carcteres "string"
