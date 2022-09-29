@@ -1,0 +1,5 @@
+Objetos = es como un arreglo pero conformado por propiedades y metodos que describen y funcion a un objeto
+Propiedades= son valores que describen el objeto ejemplo, edad, tamaño, temperatura, nombre, etc
+Metodos = son funciones que de los objetos
+Bucle for..in = es un bucle que recore cada una de las propiedades de un objeto cono si fuera un arreglo 
+Notación de puntos vs notación de corchetes = La notación con corchetes, a diferencia de la notación con punto, puede usarse con variables. Si usas una variable con notación con corchetes, la variable debe hacer referencia a una string
